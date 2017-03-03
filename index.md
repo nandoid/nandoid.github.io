@@ -10,3 +10,4 @@ layout: default
     </li>
   {% endfor %}
 </ul>
+<p><a href="{{ site.url }}">home</a></p>
