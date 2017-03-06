@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-<h1>welcome!</h1>
-<h2>please enjoy some of our posts...</h2>
+<p>welcome!</p>
 <ul>
   {% for post in site.posts %}
     <li>
