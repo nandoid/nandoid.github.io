@@ -1,7 +1,8 @@
 ---
 layout: hary
 ---
-<p>welcome!</p>
+<p>Welcome!</p>
+<p>Please enjoy..</p>
 <ul>
   {% for post in site.posts %}
     <li>
