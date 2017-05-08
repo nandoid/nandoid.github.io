@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: hary
 ---
 <p>welcome!</p>
 <ul>
