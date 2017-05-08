@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: hary
+title: virtualbox
 ---
 virtual box baru nih
 

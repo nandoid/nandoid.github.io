@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: hary
+title: new lines
 ---
 to cut every space into new lines
 

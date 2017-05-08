@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: hary
 title: tetap niatkan mandi di hari jumat
 ---
 Pada hari jumat, sebaiknya, jangan lupa niat mandi jumat, di hari jumat.

@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: hary
+title: tidak sadar
 ---
 kadang kita tdk sadar
 
