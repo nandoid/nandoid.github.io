@@ -1,8 +1,7 @@
 ---
 layout: hary
 ---
-<p>Welcome!</p>
-<p>Please enjoy..</p>
+<p>Welcome..</p>
 <ul>
   {% for post in site.posts %}
     <li>
@@ -10,3 +9,4 @@ layout: hary
     </li>
   {% endfor %}
 </ul>
+id[at]nando[dot]id
