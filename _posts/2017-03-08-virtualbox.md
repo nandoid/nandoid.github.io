@@ -2,6 +2,6 @@
 layout: hary
 title: virtualbox
 ---
-virtual box baru nih
+virtualbox baru nih
 
-to host our github
+to host our github pages

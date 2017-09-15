@@ -9,4 +9,3 @@ layout: hary
     </li>
   {% endfor %}
 </ul>
-id[at]nando[dot]id
