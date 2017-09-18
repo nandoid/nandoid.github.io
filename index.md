@@ -1,7 +1,7 @@
 ---
 layout: hary
 ---
-<p>Welcome..</p>
+<p>welcome to nando.id</p>
 <ul>
   {% for post in site.posts %}
     <li>
