@@ -10,4 +10,4 @@ Tetap diniatkan.
 
 Jangan sampai mandi jumatnya sama dengan mandi kebiasaaan.. seperti hari hari lain.
 
-Karena mandi di hari jumat adalah utama, dan lebih afdol.
+Karena mandi di hari jumat untuk sholat jumat adalah utama, dan lebih afdol.

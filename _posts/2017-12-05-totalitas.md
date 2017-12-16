@@ -2,30 +2,30 @@
 layout: hary
 title: totalitas
 ---
-kalau soal kerjaan, kita presisi 100% bahkan 1.000.000%.
+Kalau soal kerjaan, kita presisi 100% bahkan 1.000.000%.
 
-cek dan cek dan cek lagi.
+Cek dan cek dan cek lagi.
 
-pikir lagi, liat lagi, lagi dan lagi.
+Pikir lagi, liat lagi, lagi dan lagi.
 
-banyak effor yang dikeluarkan..
+Banyak effor yang dikeluarkan..
 
-sampai hafal mati,
+Sampai hafal mati,
 
-sampai terbawa mimpi,
+Sampai terbawa mimpi,
 
-terpikir terus, terngiang-ngiang terus.
+Terpikir terus, ter-ngiang-ngiang terus.
 
-soal sholat?
+Kalau soal sholat?
 
-soal ibadah?
+Soal ibadah?
 
-asal-asalan..
+Asal-asalan..
 
-tanpa pikir-pikir..
+Tanpa pikir-pikir..
 
-asal asalan?
+Asal asalan?
 
-apa apaan ini?
+Apa apaan ini?
 
-ini apa?
+Ini apa?
